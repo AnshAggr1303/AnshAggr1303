@@ -1,6 +1,5 @@
-# **Hi, I'm Ansh Agrawal** 👋  
-[![Get in Touch](https://img.shields.io/badge/Get%20In%20Touch-25D366?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshagrawal148@gmail.com)  
-<img src="https://github.com/AnshAggr1303.png" alt="Profile Banner" width="350" />  
+# **Hi, I'm Ansh Agrawal** 👋
+[![Get in Touch](https://img.shields.io/badge/Get%20In%20Touch-25D366?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshagrawal148@gmail.com) &nbsp; [![Portfolio](https://img.shields.io/badge/Portfolio-1A73E8?style=for-the-badge&logo=sitepoint&logoColor=white)](https://ai-portfolio-main.netlify.app/) &nbsp; <img src="https://github.com/AnshAggr1303.png" alt="Profile Banner" width="350" />
 
 ---
 
@@ -62,14 +61,13 @@ A healthcare-focused, multilingual, voice-enabled chatbot using **LLaMA** and **
 
 ## **📈 GitHub Stats**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnshAggr1303&show_icons=true&theme=default&include_all_commits=true&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshAggr1303&layout=compact&langs_count=8&theme=default)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnshAggr1303&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnshAggr1303&show_icons=true&theme=default&include_all_commits=true&count_private=true) &nbsp; ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshAggr1303&layout=compact&langs_count=8&theme=default) &nbsp; ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnshAggr1303&theme=default)
 
 ---
 
 ## **🤝 Let's Connect**
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-1A73E8?style=for-the-badge&logo=sitepoint&logoColor=white)](https://ai-portfolio-main.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshagrawal148@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ansh-agrawal-a69866298/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnshAggr1303)
@@ -77,6 +75,6 @@ A healthcare-focused, multilingual, voice-enabled chatbot using **LLaMA** and **
 
 ---
 
-### **"Building ideas that actually make life smarter."**  
-![Profile Views](https://komarev.com/ghpvc/?username=AnshAggr1303&label=Profile%20Views&color=0E76A8&style=for-the-badge)  
-*Made with ❤️ by Ansh Agrawal* 
+### **"Building ideas that actually make life smarter."**
+![Profile Views](https://komarev.com/ghpvc/?username=AnshAggr1303&label=Profile%20Views&color=0E76A8&style=for-the-badge)
+*Made with ❤️ by Ansh Agrawal*
