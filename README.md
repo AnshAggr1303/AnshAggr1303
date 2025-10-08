@@ -62,7 +62,9 @@ A healthcare-focused, multilingual, voice-enabled chatbot using **LLaMA** and **
 
 ## **📈 GitHub Stats**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnshAggr1303&show_icons=true&theme=default&include_all_commits=true&count_private=true) &nbsp; ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshAggr1303&layout=compact&langs_count=8&theme=default) &nbsp; ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnshAggr1303&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnshAggr1303&show_icons=true&theme=default&include_all_commits=true&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshAggr1303&layout=compact&langs_count=8&theme=default)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnshAggr1303&theme=default)
 
 ---
 
