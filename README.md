@@ -77,6 +77,6 @@ A healthcare-focused, multilingual, voice-enabled chatbot using **LLaMA** and **
 
 ---
 
-### **"Building ideas that actually make life smarter."**
-![Profile Views](https://komarev.com/ghpvc/?username=AnshAggr1303&label=Profile%20Views&color=0E76A8&style=for-the-badge)
-*Made with ❤️ by Ansh Agrawal*
+### **"Building ideas that actually make life smarter."**  
+![Profile Views](https://komarev.com/ghpvc/?username=AnshAggr1303&label=Profile%20Views&color=0E76A8&style=for-the-badge)  
+*Made with ❤️ by Ansh Agrawal* 
