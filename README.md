@@ -1,6 +1,6 @@
 # **Hi, I'm Ansh Agrawal** 👋
 
-[![Get in Touch](https://img.shields.io/badge/Get%20In%20Touch-25D366?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshagrawal148@gmail.com) &nbsp; [![Portfolio](https://img.shields.io/badge/Portfolio-1A73E8?style=for-the-badge&logo=sitepoint&logoColor=white)](https://ai-portfolio-main.netlify.app/)
+[![Get in Touch](https://img.shields.io/badge/Get%20In%20Touch-25D366?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshagrawal148@gmail.com) &nbsp; [![Portfolio](https://img.shields.io/badge/Portfolio-1A73E8?style=for-the-badge&logo=sitepoint&logoColor=white)](https://anshagrawal.netlify.app/)
 
 <img src="https://raw.githubusercontent.com/AnshAggr1303/ai-portfolio/main/assets/readme-photo.png" alt="AI Portfolio Demo" width="600" />
 
