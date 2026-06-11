@@ -1,92 +1,102 @@
-# **Hi, I'm Ansh Agrawal** 👋
+<div align="center">
+  <h1>Hi, I'm Ansh Agrawal 👋</h1>
 
-[![Get in Touch](https://img.shields.io/badge/Get%20In%20Touch-25D366?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshagrawal148@gmail.com) &nbsp; [![Portfolio](https://img.shields.io/badge/Portfolio-1A73E8?style=for-the-badge&logo=sitepoint&logoColor=white)](https://anshagrawal.netlify.app/)
+  <a href="https://anshagrawal.netlify.app">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=1000&color=3ECF8E&center=true&vCenter=true&width=600&lines=Enterprise+AI+Engineer;Building+Agentic+RAG+Pipelines;Full-Stack+Next.js+Developer;AWS+Bedrock+%26+Neptune" alt="Typing SVG" />
+  </a>
+  <br><br>
 
-<img src="https://raw.githubusercontent.com/AnshAggr1303/ai-portfolio/main/assets/readme-photo.png" alt="AI Portfolio Demo" width="600" />
+  [![Portfolio](https://img.shields.io/badge/Live_Portfolio-1A73E8?style=for-the-badge&logo=sitepoint&logoColor=white)](https://anshagrawal.netlify.app/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshagrawall/)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshagrawal148@gmail.com)
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AnshAggr1303/ai-portfolio/main/assets/readme-photo.png" alt="AI Portfolio Demo" width="700" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" />
+</div>
 
 ---
 
 ## **🚀 Featured Projects**
 
-### **🌊 FloatChat AI – ARGO Oceanographic Data Intelligence System**
-*Scientific Data Analysis & LLM Tooling*
+### **📦 Smart Inventory – AI-Powered Inventory SaaS**
+*Autonomous Supply Chain Management Platform* | [Live Demo](https://smart-inventory-rho.vercel.app)
 
-Built an AI system that turns natural language questions into complex queries and visualizations of global ARGO ocean data.
-
-**Highlights:**
-- **Hybrid Query Engine:** Routes prompts to either a Text-to-SQL pipeline or an agentic tool-use system for complex analysis.
-- **Spatial Intelligence:** Uses **PostGIS** for high-performance geospatial queries, like finding nearest ARGO floats.
-- **LLM-Powered Insights:** Employs **Groq & Llama 3.1** for rapid SQL generation and data interpretation in under 3 seconds.
-- **Built with:** Python, FastAPI, PostgreSQL, PostGIS, Streamlit, Groq
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Groq](https://img.shields.io/badge/Groq%20LLM-Llama3.1-purple?style=for-the-badge) ![PostGIS](https://img.shields.io/badge/PostGIS-Enabled-brightgreen?style=for-the-badge)
-
----
-
-### **🧠 Study Buddy – Agentic AI Learning Assistant**
-*Hackathon Project (3rd Place @ Assesli)*
-
-A 4-phase agentic system (**Analyze, Teach, Assess, Recommend**) to personalize student learning using **Gemini AI**, **LangGraph**, and **Supabase**.
+A production-grade SaaS for SMBs featuring 3 autonomous AI agents (reorder, shrinkage, forecasting) governed by a secure, ledger-based PostgreSQL model.
 
 **Highlights:**
-- Intelligent voice interaction using **Ngrok** for webhooks and **Gemini TTS** for responses.
-- Scalable architecture suitable for **SLM development** in EdTech.
-- **Built with:** Next.js, Gemini AI, Supabase, LangGraph
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-AI-red?style=for-the-badge&logo=google&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-blue?style=for-the-badge&logo=graphql&logoColor=white)
+- **Advanced Agentic Routing:** Custom router logic seamlessly handles combined user intents (e.g., "yes + corrections") and dynamic vendor choice selections within a single interaction.
+- **Hinglish NLP Processing:** Engineered robust regex-based entity extraction prioritizing precise rate deductions and natively handling mixed-language conversational inputs (like "X se").
+- **Atomic Operations:** Integrates OCR bill scanning (Tesseract.js + Gemini Vision) with recipe-based ingredient deductions via **PostgreSQL RPC**.
+- **Secure:** BYOK encryption (AES-256-GCM) allows users to plug in their own API keys safely.
+- **Built with:** Next.js 14, TypeScript, Supabase, Groq LLM, Gemini 2.0 Flash, Vercel Cron
 
 ---
 
-### **🩺 Aarogya AI – Multilingual + Voice RAG Chatbot**
-*Healthcare Chatbot (Used by NGO)*
+### **🌊 FloatChat AI – Oceanographic Data Intelligence**
+*Scientific Data Analysis & Hybrid Tooling* | [GitHub Repo](https://github.com/AnshAggr1303/FloatChat)
 
-A healthcare-focused, multilingual, voice-enabled chatbot using **LLaMA** and **FAISS** for contextual RAG on health queries.
+An SIH problem-statement project that transforms natural language questions into complex ARGO ocean data visualizations, achieving a **95% query success rate**.
 
 **Highlights:**
-- Supports **English, Hindi, Gujarati, Telugu, and Hinglish**.
-- RAG pipeline with a **FastAPI** backend for efficient context retrieval.
-- **Built with:** Python, LLaMA, FAISS, FastAPI, LangChain, React, VOSK, AWS
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![FAISS](https://img.shields.io/badge/FAISS-blue?style=for-the-badge&logo=meta&logoColor=white) ![VOSK](https://img.shields.io/badge/VOSK-orange?style=for-the-badge)
+- **Hybrid Query Routing:** Intelligently routes simple prompts to a direct Text-to-SQL pipeline and complex geospatial requests to an MCP tool orchestration layer.
+- **Spatial Intelligence:** Leverages **PostGIS** for high-performance geospatial data processing.
+- **Built with:** FastAPI, PostgreSQL/PostGIS, Groq LLM, ChromaDB, Streamlit, Supabase, LangChain
 
 ---
 
-## **🛠️ Tech Stack**
+### **🧠 Study Buddy – Agentic Learning Assistant**
+*EdTech Voice Agent (3rd Place @ Assesli Hackathon)* | [GitHub Repo](https://github.com/AnshAggr1303/Agentic-Chatbot-System)
 
-| **Frontend** | **Backend** | **AI/ML** | **Database & Tools** |
-|---------------|-------------|------------|----------------------|
-| ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) <br> ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) <br> ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) <br> ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) <br> ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) <br> ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) <br> ![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white) <br> ![LangGraph](https://img.shields.io/badge/LangGraph-blue?style=for-the-badge&logo=graphql&logoColor=white) | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) <br> ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) <br> ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white) <br> ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) |
+A 4-phase AI system (**Analyze, Teach, Assess, Recommend**) built for persistent, voice-driven student learning.
 
----
-
-## **🏆 Achievements**
-
-- 🥉 **3rd Place – Assesli Hackathon** → *Study Buddy*
-- 🥇 **1st Place – The Hackathon (MUJ)** → *Exam Guard (AI Cheating Detection System)*
-- 🎖️ **4th Place – BITS Goa CODESTORM**
-- 🔝 **Top 5 – IIT Kanpur TechKriti'25 (ML Hackathon & Product Challenge)**
+**Highlights:**
+- Real-time voice interaction using **Web Speech API**, **Gemini TTS**, and **Ngrok** webhooks.
+- Event-driven backend triggered by **Supabase Webhooks** with persistent conversational memory storage.
+- **Built with:** Next.js, Gemini AI, LangGraph, Supabase
 
 ---
 
-## **📈 GitHub Stats**
+## **🛠️ Engineering Arsenal**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnshAggr1303&show_icons=true&theme=default&include_all_commits=true&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshAggr1303&layout=compact&langs_count=8&theme=default)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnshAggr1303&theme=default)
+*Replaced standard shields with clean, dynamically updated skill icons.*
 
----
-
-## **🤝 Let's Connect**
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-1A73E8?style=for-the-badge&logo=sitepoint&logoColor=white)](https://anshagrawal.netlify.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshagrawal148@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshagrawall/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnshAggr1303)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_anshhagrawal_/)
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,py,cpp,java,nextjs,nodejs,fastapi,flask,supabase,postgres,mongodb,firebase,aws,linux,tensorflow,opencv,git&theme=dark&perline=9" />
+  </a>
+</div>
 
 ---
 
-### **"Building ideas that actually make life smarter."**
-![Profile Views](https://komarev.com/ghpvc/?username=AnshAggr1303&label=Profile%20Views&color=0E76A8&style=for-the-badge)
+## **📈 Development Metrics**
 
-*Made with ❤️ by Ansh Agrawal*
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnshAggr1303&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=3ECF8E&icon_color=3ECF8E" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnshAggr1303&theme=radical&background=0d1117&ring=3ECF8E&fire=3ECF8E&currStreakNum=ffffff" width="48%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshAggr1303&layout=compact&langs_count=8&theme=radical&bg_color=0d1117&title_color=3ECF8E" width="60%" />
+</div>
+
+---
+
+## **🏆 Hackathon Track Record**
+
+- 🥇 **1st Position** – *The Hackathon*, Manipal University Jaipur (Apr 2025)
+- 🥉 **3rd Position** – *Agentic Chatbot System*, Assesli (Aug 2025)
+- 🎖️ **4th Position** – *CODESTORM*, BITS Goa (Feb 2025)
+- 🎖️ **4th Position** – *ML Hackathon*, IIT Kanpur TechKriti'25 (Mar 2025)
+- 🚀 **Top 5** – *Beat the Market Challenge*, IIT Kanpur TechKriti'25 (Mar 2025)
+
+---
+
+<div align="center">
+  <p><i>"Building ideas that actually make life smarter."</i></p>
+  <img src="https://komarev.com/ghpvc/?username=AnshAggr1303&label=Profile%20Views&color=3ECF8E&style=flat" alt="Profile Views" />
+</div>
