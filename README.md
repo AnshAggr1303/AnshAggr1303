@@ -8,10 +8,25 @@
 
 ## **🚀 Featured Projects**
 
-### **🌊 FloatChat AI – ARGO Oceanographic Data Intelligence System**
-*Scientific Data Analysis & LLM Tooling*
+### **📦 Smart Inventory – AI-Powered Inventory Platform**
+*Autonomous Supply Chain Management SaaS* | [Live Demo](https://smart-inventory-rho.vercel.app)
 
-Built an AI system that turns natural language questions into complex queries and visualizations of global ARGO ocean data.
+A production-grade SaaS for SMBs featuring OCR bill scanning, atomic recipe-based deductions, and 3 autonomous AI agents (reorder, shrinkage, forecasting).
+
+**Highlights:**
+- **Advanced Agentic Routing:** Custom router logic seamlessly handles combined user intents (e.g., "yes + corrections") and dynamic vendor selections.
+- **Hinglish NLP Processing:** Engineered robust regex-based entity extraction for precise rate deductions natively handling mixed-language inputs.
+- **Secure & Automated:** Features BYOK encryption (AES-256-GCM) and ledger-based stock modeling via **PostgreSQL triggers**.
+- **Built with:** Next.js 14, TypeScript, Supabase, Groq LLM, Gemini 2.0 Flash, PostgreSQL
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white)
+
+---
+
+### **🌊 FloatChat AI – ARGO Oceanographic Data Intelligence System**
+*Scientific Data Analysis & LLM Tooling* | [GitHub](https://github.com/AnshAggr1303/FloatChat)
+
+Built an AI system that turns natural language questions into complex queries and visualizations of global ARGO ocean data, achieving a 95% query success rate.
 
 **Highlights:**
 - **Hybrid Query Engine:** Routes prompts to either a Text-to-SQL pipeline or an agentic tool-use system for complex analysis.
@@ -24,30 +39,16 @@ Built an AI system that turns natural language questions into complex queries an
 ---
 
 ### **🧠 Study Buddy – Agentic AI Learning Assistant**
-*Hackathon Project (3rd Place @ Assesli)*
+*Hackathon Project (3rd Place @ Assesli)* | [GitHub](https://github.com/AnshAggr1303/Agentic-Chatbot-System)
 
 A 4-phase agentic system (**Analyze, Teach, Assess, Recommend**) to personalize student learning using **Gemini AI**, **LangGraph**, and **Supabase**.
 
 **Highlights:**
 - Intelligent voice interaction using **Ngrok** for webhooks and **Gemini TTS** for responses.
-- Scalable architecture suitable for **SLM development** in EdTech.
+- Event-driven backend triggered by **Supabase Webhooks** with persistent conversational memory storage.
 - **Built with:** Next.js, Gemini AI, Supabase, LangGraph
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-AI-red?style=for-the-badge&logo=google&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-blue?style=for-the-badge&logo=graphql&logoColor=white)
-
----
-
-### **🩺 Aarogya AI – Multilingual + Voice RAG Chatbot**
-*Healthcare Chatbot (Used by NGO)*
-
-A healthcare-focused, multilingual, voice-enabled chatbot using **LLaMA** and **FAISS** for contextual RAG on health queries.
-
-**Highlights:**
-- Supports **English, Hindi, Gujarati, Telugu, and Hinglish**.
-- RAG pipeline with a **FastAPI** backend for efficient context retrieval.
-- **Built with:** Python, LLaMA, FAISS, FastAPI, LangChain, React, VOSK, AWS
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![FAISS](https://img.shields.io/badge/FAISS-blue?style=for-the-badge&logo=meta&logoColor=white) ![VOSK](https://img.shields.io/badge/VOSK-orange?style=for-the-badge)
 
 ---
 
@@ -55,16 +56,17 @@ A healthcare-focused, multilingual, voice-enabled chatbot using **LLaMA** and **
 
 | **Frontend** | **Backend** | **AI/ML** | **Database & Tools** |
 |---------------|-------------|------------|----------------------|
-| ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) <br> ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) <br> ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) <br> ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) <br> ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) <br> ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) <br> ![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white) <br> ![LangGraph](https://img.shields.io/badge/LangGraph-blue?style=for-the-badge&logo=graphql&logoColor=white) | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) <br> ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) <br> ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white) <br> ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) |
+| ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) <br> ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) <br> ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) <br> ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) <br> ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) <br> ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) <br> ![LangGraph](https://img.shields.io/badge/LangGraph-blue?style=for-the-badge&logo=graphql&logoColor=white) <br> ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white) <br> ![Groq](https://img.shields.io/badge/Groq-f39c12?style=for-the-badge) | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) <br> ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) <br> ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) <br> ![PostGIS](https://img.shields.io/badge/PostGIS-33BA5D?style=for-the-badge&logo=postgresql&logoColor=white) |
 
 ---
 
 ## **🏆 Achievements**
 
+- 🥇 **1st Place – The Hackathon (MUJ)**
 - 🥉 **3rd Place – Assesli Hackathon** → *Study Buddy*
-- 🥇 **1st Place – The Hackathon (MUJ)** → *Exam Guard (AI Cheating Detection System)*
 - 🎖️ **4th Place – BITS Goa CODESTORM**
-- 🔝 **Top 5 – IIT Kanpur TechKriti'25 (ML Hackathon & Product Challenge)**
+- 🎖️ **4th Place – IIT Kanpur TechKriti'25 (ML Hackathon)**
+- 🔝 **Top 5 – IIT Kanpur TechKriti'25 (Beat the Market Challenge)**
 
 ---
 
@@ -82,6 +84,7 @@ A healthcare-focused, multilingual, voice-enabled chatbot using **LLaMA** and **
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshagrawal148@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshagrawall/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnshAggr1303)
+[![X (Twitter)](https://img.shields.io/badge/X_Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/aaahhhhhh_nsh)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_anshhagrawal_/)
 
 ---
